@@ -110,15 +110,15 @@ class Profile extends React.Component {
                     <Col className="order-lg-1" lg="4">
                       <div className="card-profile-stats d-flex justify-content-center">
                         <div>
-                          <span className="heading">22</span>
+                          <span className="heading">105</span>
                           <span className="description">Friends</span>
                         </div>
                         <div>
-                          <span className="heading">10</span>
+                          <span className="heading">90</span>
                           <span className="description">Photos</span>
                         </div>
                         <div>
-                          <span className="heading">89</span>
+                          <span className="heading">1050</span>
                           <span className="description">Comments</span>
                         </div>
                       </div>
@@ -126,31 +126,35 @@ class Profile extends React.Component {
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
-                      Jessica Jones{" "}
-                      <span className="font-weight-light">, 27</span>
+                      Mhammad Baker{" "}
+                      <span className="font-weight-light">, 23</span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
-                      Bucharest, Romania
+                      Jordan , irbid
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Solution Manager - Creative Tim Officer
+                      Mechanical engineer
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      University of Computer Science
+                      Jordan university for since and technology
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
-                          by Melbourne-raised, Brooklyn-based Nick Murphy —
-                          writes, performs and records all of his own music,
-                          giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+                        An enthusiastic Mechanical Engineer with a strong technical background
+in Mechanical Systems Design. Providing mechanical consultations and
+workshop drawings for small and large scaled projects while adhering to
+the authorities and regulations as per country basis. Expert in AutoCAD
+and a very good working knowledge in SOLIDWORKS . I'm always aiming
+to find an opportunity outside my comfort zone that is challenging to my
+set of skills as that is the best way for growth and the most efficient way
+for me to give back to my team. Recognized for being attentive to the
+projects in hand and always looking for ways to improve our designs
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
